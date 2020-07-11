@@ -29,7 +29,7 @@ section{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat; 
     background-size: cover;
-    height: 550px;
+    height: 650px;
 }
 .biography{
     background-image: url(images/biography-bg.png);
@@ -88,7 +88,7 @@ section{
 }
 .mid-a{
     text-decoration: none;
-    color: peru;
+    color: purple;
     margin-top: 40px;
     display: block;
 }
@@ -102,20 +102,55 @@ p:hover{
     color: saddlebrown;
 }
 .client{
-    height: 600px;
+    height: 650px;
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat; 
     background-size: cover;
 }
 .copyright{
-    padding-top: 180px;
+    padding-top: 260px;
 }
 .peak{
-    height: 400px;
-    background-color: rgba(211, 211, 211, 0.205)
+    height: 500px;
+    background-color: rgba(211, 211, 211, 0.082)
 }
 .big-font{
     font-size: 80px;
     margin-top: 120px;
     margin-left: 100px;
+    color: rgba(255, 99, 71, 0.733);
+}
+.a1{
+    background-color: rgba(128, 128, 128, 0.479);
+    width: 70px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.a2{
+    background-color: rgba(128, 128, 128, 0.479);
+    width: 110px;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+}
+.a3{
+    background-color: rgba(128, 128, 128, 0.479);
+    width: 150px;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+}
+.a4{
+    background-color: rgba(128, 128, 128, 0.479);
+    width: 190px;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+}
+.a5{
+    background-color: rgba(128, 128, 128, 0.479);
+    width: 230px;
+    padding: 5px 10px;
+    border-radius: 5px;
+
 }
